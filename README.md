@@ -1,2 +1,2 @@
-# photosview
-/nyo masha
+finish this by this week
+
