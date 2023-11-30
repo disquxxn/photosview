@@ -1,1 +1,2 @@
 # photosview
+/nyo masha
