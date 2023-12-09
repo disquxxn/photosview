@@ -1,5 +1,6 @@
 import tkinter as tk #tk used as an alias
 from tkinter import filedialog #sub-module used for opening file dialogs in your GUI
+                            # used for larger than scale set of images 
 from PIL import Image, ImageTk # Python Imaging Library, sub-modules used for opening and displaying images.
 
 class SimpPhotoViewer: # in oop, class is blue print for creating objects
