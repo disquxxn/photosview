@@ -26,3 +26,5 @@ class SimpPhotoViewer:
 root = tk.Tk()
 app = SimplePhotoViewer(root)
 root.mainloop()
+make .py file
+delete photo viewer
