@@ -28,4 +28,4 @@ class SimpPhotoViewer: # in oop, class is blue print for creating objects
 
 root = tk.Tk()
 app = SimplePhotoViewer(root)
-root.mainloop()
+root.mainloop() # makes it a closable window
