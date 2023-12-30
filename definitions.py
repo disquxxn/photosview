@@ -2,4 +2,4 @@ definitions
 
 oop (object oriented programing)
 
-filedialog
+file dialog 
